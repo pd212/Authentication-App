@@ -1,0 +1,21 @@
+/* App.css */
+
+.container {
+  margin-top: 3rem;
+}
+
+.text-center {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: #fff;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+

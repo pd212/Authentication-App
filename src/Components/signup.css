@@ -1,0 +1,143 @@
+.signup-container {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+    
+    background: black;
+  }
+h2{
+    position: absolute;
+width: 600px;
+height: 144px;
+left: 260px;
+top: 233px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #FFFFFF;
+
+}
+
+#name{
+    position: absolute;
+width: 800px;
+height: 29px;
+left: 260px;
+top: 357px;
+margin-top: 5px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+text-decoration-color: black;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#email{
+    position: absolute;
+width: 800px;
+height: 29px;
+left: 260px;
+top: 431px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#password{
+    position: absolute;
+width: 800px;
+height: 29px;
+left: 260px;
+top: 505px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+#password1{
+    position: absolute;
+width: 800px;
+height: 29px;
+left: 260px;
+top: 579px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.error{
+    position: absolute;
+width: 416px;
+height: 29px;
+left: 260px;
+top: 671px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #FF4F4F;
+}
+.success{
+    position: absolute;
+width: 416px;
+height: 29px;
+left: 260px;
+top: 715px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #7ECD71;
+
+}
+button{
+    position: absolute;
+width: 226px;
+height: 58px;
+left: 260px;
+top: 806px;
+
+background: #FFFFFF;
+}

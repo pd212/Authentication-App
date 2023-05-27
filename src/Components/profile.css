@@ -1,0 +1,85 @@
+.profile-container {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+
+#profile {
+    position: absolute;
+    width: 600px;
+    height: 144px;
+    left: 52px;
+    top: 176px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+
+}
+
+#name1 {
+    position: absolute;
+    /* width: 600px; */
+    height: 144px;
+    left: 52px;
+    top: 320px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+
+}
+
+#email1 {
+    position: absolute;
+    /* width: 600px; */
+    height: 144px;
+    left: 52px;
+    top: 438px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+#password3 {
+    position: absolute;
+    /* width: 600px; */
+    height: 144px;
+    left: 52px;
+    top: 559px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+}
+
+#log-out {
+    position: absolute;
+    width: 226px;
+    height: 58px;
+    left: 52px;
+    top: 703px;
+
+    background: #FFFFFF;
+}
